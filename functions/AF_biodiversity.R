@@ -11,4 +11,3 @@ afdata<- read.csv(file = "alluvial_data.csv")
 source(file = "functions/agroforestry_alluvial.R")
 agroforestry_alluvial(afdata)
 
-
