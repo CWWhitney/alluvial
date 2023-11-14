@@ -1,0 +1,17 @@
+outcome,scale_name,Capacity,Tech,Policy,Maps
+Biodiv,Farm,1,1,1,1
+Gender,Farm,1,1,1,1
+Resilience,Farm,1,1,1,1
+Income,Farm,1,1,1,1
+Biodiv,Landscape,1,1,1,1
+Gender,Landscape,1,1,1,1
+Resilience,Landscape,1,1,1,1
+Income,Landscape,1,1,1,1
+Biodiv,National ,1,1,1,1
+Gender,National ,1,1,1,1
+Resilience,National ,1,1,1,1
+Income,National ,1,1,1,1
+Biodiv,Sahel,1,1,1,1
+Gender,Sahel,1,1,1,1
+Resilience,Sahel,1,1,1,1
+Income,Sahel,1,1,1,1
