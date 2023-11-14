@@ -1,33 +1,17 @@
-outcome,scale_name,Maps,Tech,Politics
-biodiversity,farm,0,0,0
-gender,farm,0,0,0
-resilience,farm,0,0,0
-income,farm,0,0,0
-biodiversity,landscape,0,1,1
-gender,landscape,1,0,0
-resilience,landscape,1,0,0
-income,landscape,0,0,0
-biodiversity,national,0,1,1
-gender,national,0,0,0
-resilience,national,1,1,1
-income,national,0,0,0
-biodiversity,international,0,1,1
-gender,international,0,0,0
-resilience,international,1,0,0
-income,international,0,0,0
-biodiversity,farm,0,0,0
-gender,farm,0,0,0
-resilience,farm,0,0,0
-income,farm,0,0,0
-biodiversity,landscape,0,1,1
-gender,landscape,1,0,0
-resilience,landscape,0,0,0
-income,landscape,0,0,0
-biodiversity,national,0,0,0
-gender,national,0,0,0
-resilience,national,1,0,0
-income,national,1,0,0
-biodiversity,international,0,1,1
-gender,international,0,0,0
-resilience,international,1,0,0
-income,international,1,1,1
+outcome,scale_name,Capacity,Tech,Policy,Maps
+Biodiv,Farm,1,1,1,1
+Gender,Farm,1,1,1,1
+Resilience,Farm,1,1,1,1
+Income,Farm,1,1,1,1
+Biodiv,Landscape,1,1,1,1
+Gender,Landscape,1,1,1,1
+Resilience,Landscape,1,1,1,1
+Income,Landscape,1,1,1,1
+Biodiv,National ,1,1,1,1
+Gender,National ,1,1,1,1
+Resilience,National ,1,1,1,1
+Income,National ,1,1,1,1
+Biodiv,Sahel,1,1,1,1
+Gender,Sahel,1,1,1,1
+Resilience,Sahel,1,1,1,1
+Income,Sahel,1,1,1,1
