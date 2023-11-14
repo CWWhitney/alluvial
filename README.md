@@ -8,20 +8,19 @@ The impact pathway forms a basis for planning agroforestry as an intervention wi
 1. Policy Influence Pathway
 
 <img width="857" alt="alluvial" src="https://github.com/CWWhitney/alluvial/assets/19190662/897e8d6f-189e-4255-9e35-8a0c579deeb8">
-*Figure generated with the 'agroforestry_alluvial' function, outlining the multiple possible influences of agroforestry*
+**Figure** generated with the `agroforestry_alluvial` function, outlining the multiple possible influences of agroforestry
 
 For each intervention at each scale we will need to determine the influence on the outcomes of interest. Here we do that in the form of a simple .csv file. This is the current level of the UI. More could be done with that. 
 
 <img width="553" alt="data" src="https://github.com/CWWhitney/alluvial/assets/19190662/258fca82-da98-4ac9-bb0f-0b83743055ac">
-*Example of the dataset required for the 'agroforestry_alluvial' function, outlining the multiple possible influences of agroforestry*
-
+**Example** of the data format required for the `agroforestry_alluvial` function, outlining the multiple possible influences of agroforestry
 
 The discourse on agroforestry, ecosystem services, and sustainability highlights the interplay of instrumental and relational values across various scales (van Noordwijk 2021).
 
 # Overview of possible influence of agroforestry 
 
 <img width="1096" alt="overview" src="https://github.com/CWWhitney/alluvial/assets/19190662/61340b70-db2c-45a7-ad2c-f413d836bd29">
-*Figure outlining the multiple possible influences of agroforestry*
+**Figure** outlining the multiple possible influences of agroforestry
 
 *Sahel's Agroforestry Potential:*
 In the Sahel, where low biomass production leads to soil erosion, agroforestry parklands can address challenges by providing green fodder, fruits, and soil cover (Kuyah et al. 2020).
@@ -46,7 +45,6 @@ The Sahel faces challenges such as endemic poverty, demographic surge, and food 
 
 *Approaches to Landscape Analysis:*
 Landscape analysis contributes to the evidence base, while landscape facilitation focuses on action research for development, effectiveness, and equity (Minang et al. 2014).
-
 
 # References
 
