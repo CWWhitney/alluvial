@@ -55,7 +55,7 @@ Intervention <- Scale <- Outcome <- outcome <- scale_name <- variable <- value <
     ggalluvial::geom_stratum(alpha = alpha,
           color = "grey") + 
     ggplot2::geom_text(stat = "stratum", size = 4, min.y = 100) +
-    # geom_text(stat = "alluvium", aes(label = outcome), size = 3, angle = 90) +
+    geom_text(stat = "stratum", aes(label = after_stat(stratum))) +
     ggplot2::scale_x_discrete(
             limits = c("Intervention","Scale", "Outcome"),
               expand = c(0.01, 0.02)) + 
