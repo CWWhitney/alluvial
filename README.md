@@ -2,7 +2,7 @@
 
 The impact pathway forms a basis for planning agroforestry as an intervention within the policy domain. It also helps to form the basis for the work within the project. The impact pathway helps us to identify processes whereby actions can best attain their intended consequences. In this pathway, we identify essential interactions and the general preconditions deemed necessary to achieve desired goals of agroforestry in the greater Sahel and North Africa.  
 
-*Possible impact could be: *
+*The alluvial plot could support impact pathways of agroforestry. Possible impact pathways could be: *
 
 1. Technology Development and Adoption Pathway 
 1. Capacity Development Pathway 
