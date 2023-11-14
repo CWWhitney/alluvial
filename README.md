@@ -2,7 +2,7 @@
 
 The impact pathway forms a basis for planning agroforestry as an intervention within the policy domain. It also helps to form the basis for the work within the project. The impact pathway helps us to identify processes whereby actions can best attain their intended consequences. In this pathway, we identify essential interactions and the general preconditions deemed necessary to achieve desired goals of agroforestry in the greater Sahel and North Africa.  
 
-Possible impact could be: 
+*Possible impact could be: *
 1. Technology Development and Adoption Pathway 
 1. Capacity Development Pathway 
 1. Policy Influence Pathway
@@ -15,35 +15,33 @@ For each intervention at each scale we will need to determine the influence on t
 
 The discourse on agroforestry, ecosystem services, and sustainability highlights the interplay of instrumental and relational values across various scales (van Noordwijk 2021).
 
-Sahel's Agroforestry Potential:
-In the Sahel, where low biomass production leads to soil erosion, agroforestry parklands can address challenges by providing green fodder, fruits, and soil cover (Kuyah et al. 2020).
-
-Global Recognition of Agroforestry:
-Agroforestry, integrating trees in production systems, is globally recognized for conservation and development goals (Miller et al. 2017).
-
-Evidence Gaps and Challenges:
-Despite widespread promotion, rigorous evidence on the effects of agroforestry interventions on farmers' land remains limited (Miller et al. 2017).
-
-Agroforestry in Sub-Saharan Africa:
-Agroforestry systems in SSA offer diverse products, supporting livelihoods and providing essential ecosystem services (Kuyah et al. 2020).
-
-Historical Context:
-Historically, Sahelian farmers preserved trees, recognizing their benefits even when facing changing circumstances and land pressure (Guy 1980).
-
-Challenges and Opportunities in Shea Production:
-Land tenure, political, and cultural issues threaten shea production, requiring changes in markets, technologies, and addressing social and political threats (Lovett and Phillips 2018).
-
-Sahel's Current Challenges:
-The Sahel faces challenges such as endemic poverty, demographic surge, and food insecurity amid a changing climate (Grist and Harvey 2017).
-
-Approaches to Landscape Analysis:
-Landscape analysis contributes to the evidence base, while landscape facilitation focuses on action research for development, effectiveness, and equity (Minang et al. 2014).
-
-
-
 # Overview of possible influence of agroforestry 
 
 <img width="1096" alt="overview" src="https://github.com/CWWhitney/alluvial/assets/19190662/61340b70-db2c-45a7-ad2c-f413d836bd29">
+
+*Sahel's Agroforestry Potential:*
+In the Sahel, where low biomass production leads to soil erosion, agroforestry parklands can address challenges by providing green fodder, fruits, and soil cover (Kuyah et al. 2020).
+
+*Global Recognition of Agroforestry:*
+Agroforestry, integrating trees in production systems, is globally recognized for conservation and development goals (Miller et al. 2017).
+
+*Evidence Gaps and Challenges:*
+Despite widespread promotion, rigorous evidence on the effects of agroforestry interventions on farmers' land remains limited (Miller et al. 2017).
+
+*Agroforestry in Sub-Saharan Africa:*
+Agroforestry systems in SSA offer diverse products, supporting livelihoods and providing essential ecosystem services (Kuyah et al. 2020).
+
+*Historical Context:*
+Historically, Sahelian farmers preserved trees, recognizing their benefits even when facing changing circumstances and land pressure (Guy 1980).
+
+*Challenges and Opportunities in Shea Production:*
+Land tenure, political, and cultural issues threaten shea production, requiring changes in markets, technologies, and addressing social and political threats (Lovett and Phillips 2018).
+
+*Sahel's Current Challenges:*
+The Sahel faces challenges such as endemic poverty, demographic surge, and food insecurity amid a changing climate (Grist and Harvey 2017).
+
+*Approaches to Landscape Analysis:*
+Landscape analysis contributes to the evidence base, while landscape facilitation focuses on action research for development, effectiveness, and equity (Minang et al. 2014).
 
 
 # References
